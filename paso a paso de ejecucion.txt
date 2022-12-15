@@ -1,0 +1,22 @@
+1.- abrir el archivo .sln en microsoft visual studio
+2.- descargar el archivo chromedriver.exe de la siguienet pagina https://chromedriver.storage.googleapis.com/index.html?path=109.0.5414.25/
+3.- copiar el archivo chromedriver.exe en la siguiente ruta C:\Chrome Driver\chromedriver.exe
+4.- restaurar paquetes nuguets dando clic derecho en la solucion del explorador de soluciones 
+5.- Abrir el explorador de pruebas y ejecutar el test Compras
+
+
+
+pasos previos 
+descargar el chromedriver.exe
+abrir el visual 
+proyecto c# nUnit
+verificar que sea puntonet core 3.1 lts
+buscar administrar paquetes nuguet clic derecho en el test en explorador de soluciones 
+descargar paquetes nuguet: selenium.webdriver, selenium.webdriver.chromedriver
+grabar archivo y exportar el flujo de selenium ide y dar forma al script
+
+
+
+
+
+ 

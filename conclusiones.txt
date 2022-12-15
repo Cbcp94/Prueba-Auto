@@ -1,0 +1,6 @@
+conclusiones
+no existe control de caracteres especiales en el formulario 
+no existe control de tipo de datos en los formularios
+no existe control de numero de caracteres
+
+
